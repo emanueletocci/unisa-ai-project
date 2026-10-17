@@ -15,9 +15,9 @@ Il progetto è stato sviluppato nell’ambito del contest "Gran Premio MIVIA 202
 ---
 
 ## 📚 Documentazione
+
 - ![Documentazione](docs/Documentazione_Progettuale.pdf)
 - ![Presentazione](docs/Presentazione_Progetto.pdf)
-
 
 ## 🧠 Architettura
 
@@ -25,7 +25,6 @@ Il progetto è stato sviluppato nell’ambito del contest "Gran Premio MIVIA 202
 - **AutonomousDriver**: modalità autonoma mediante regole. Utilizza un classificatore addestrato per prendere decisioni in tempo reale.
 - **Classificatori**: implementazioni custom di k-NN e KDTree.
 - **Moduli di supporto**: normalizzazione delle feature, visualizzazione radar,  utility per logging e istogrammi.
-
 
 ---
 
@@ -65,11 +64,11 @@ Il sistema è stato testato secondo i seguenti criteri:
 
 ## 🎥 Video
 
-Il progetto include un ![video dimostrativo](docs/demo.mp4) del funzionamento dell’agente in pista.
+Il progetto include un [![Video Demo](docs/preview.png)](docs/demo.mp4) del funzionamento dell’agente in pista.
 
 ## 👥 Team - Gruppo 03
 
-- Emanuele Tocci - https://github.com/emanueletocci/
-- Alessio Leo - https://github.com/Al3Leo
-- Claudia Montefusco - https://github.com/ClaudiaMontefusco3
-- Rossella Pale - https://github.com/rossellapale
+- Emanuele Tocci - <https://github.com/emanueletocci/>
+- Alessio Leo - <https://github.com/Al3Leo>
+- Claudia Montefusco - <https://github.com/ClaudiaMontefusco3>
+- Rossella Pale - <https://github.com/rossellapale>
