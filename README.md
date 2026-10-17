@@ -20,15 +20,8 @@ Il progetto è stato sviluppato nell’ambito del contest "Gran Premio MIVIA 202
 
 ## 🎥 Demo
 
-<!--
-  Per mostrare il player video qui sotto:
-  1. modifica questo README direttamente su github.com;
-  2. trascina il file docs/demo_web.mp4 in questo punto dell'editor;
-  3. GitHub genera un link del tipo https://github.com/user-attachments/assets/...
-     che, lasciato da solo su una riga, viene mostrato come video riproducibile.
-  Poi cancella la riga segnaposto qui sotto.
--->
-SOSTITUISCI_CON_IL_LINK_DEL_VIDEO
+[Demo](https://github.com/user-attachments/assets/19f033ef-f201-436f-8c6e-978ab817511c
+)
 
 Video completo dell'agente autonomo in pista.
 
