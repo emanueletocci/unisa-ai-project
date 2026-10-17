@@ -64,7 +64,7 @@ Il sistema è stato testato secondo i seguenti criteri:
 
 ## 🎥 Video
 
-Il progetto include un [![Video Demo](docs/preview.png)](docs/demo.mp4) del funzionamento dell’agente in pista.
+Il progetto include un Video Demo del funzionamento dell’agente in pista. [![Video Demo](docs/preview.png)](docs/demo.mp4)
 
 ## 👥 Team - Gruppo 03
 
